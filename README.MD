@@ -204,8 +204,8 @@ import (
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/gigbanc/loyalty-and-gamification-service/interfaces"
-	notificationInterfaces "github.com/gigbanc/loyalty-and-gamification-service/modules/notification/interfaces"
+	"github.com/username/repo/interfaces"
+	notificationInterfaces "github.com/username/repo/modules/notification/interfaces"
 )
 
 type kafkaBroker struct {
